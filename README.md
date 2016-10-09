@@ -3,7 +3,7 @@ FastValJS is a lean (less than 1 kb) client side Java script validation library.
 
 At runtime, its lean and fast code enables quick page loading, effective validations, happy users, and better sales.
 
-For fast development time, API is kept simple and extensible. So rapid development and testing, quick learning, lower development cost, and lesser time to market.
+For fast development time, online code generator is provided at Http://www.SolutionZeal.com/FASTValJS.htm . So rapid development and testing, quick learning, lower development cost, and lesser time to market.
 
 Mehul Shah conceptualized, designed, and implemented this simple and extensible library effective for client side JavaScript validations. 
 
